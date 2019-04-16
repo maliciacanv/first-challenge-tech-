@@ -1,1 +1,1 @@
-# first-challenge-tech-
+# first-challenge-tech

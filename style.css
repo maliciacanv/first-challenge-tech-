@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background: black;
+}
+
+#button{
+    margin-top: 5%;
+    background-color: #F9F903; 
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid #F9F903  ;
+}
+#button:hover{
+    background-color: #FD05BD;
+    border: 2px solid #FD05BD;
+    color: white;
+}
+
+.template-screen{
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+h1{
+   padding: 6%;
+   font-size: 80px;
+}
